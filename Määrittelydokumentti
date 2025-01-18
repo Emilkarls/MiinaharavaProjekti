@@ -1,0 +1,11 @@
+Käytän Pythonia
+Pystyn arvioimaan pythonilla toteutettuja projekteja mahdollisesti myös esim C++, jos tarve.
+Käytän todennäköisesti backtracking algoritmia. En ole kerennyt tutustua riittävästi aiheeseen, että osaisin tarkalleen sanoa mitä tarvitsen.
+Algoritmin on tarkoitus pystyä ratkaisemaan miinaharavapelejä.
+Algoritmin ei pitäisi olla kovin vaativa tilan tai aikavaatimusten kannalta. 
+
+Tarkoitukseni on toteuttaa algoritmi, joka osaa pelata miinaharavaa tekemättä virheitä. 
+
+
+
+Opinto-ohjelmani on tietojenkäsittelytieteen kandidaatti
